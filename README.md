@@ -1,6 +1,5 @@
 # Mozi_Download 
-- Mozi 다운
-- Hash값 비교
+- Mozi 는 악성 파일 입니다. - 다운로드시 주의하시기 바랍니다
 
 
 
